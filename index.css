@@ -1,0 +1,34 @@
+
+/*
+Name:IsabelBarboza
+Date:01/30/2026
+CSC372-01
+Styles for index website.
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(225, 213, 181);
+    color: rgb(131, 71, 36);
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    color:rgb(85, 22, 22);
+    margin-top: 30px;
+}
+
+p{
+    line-height: 1.6;
+}
+
+a{
+    color: rgb(48, 173, 62);
+    font-weight: bold;
+    text-decoration: underline;
+}

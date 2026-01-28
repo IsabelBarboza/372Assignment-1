@@ -1,0 +1,99 @@
+/*
+Name:IsabelBarboza
+Date:01/30/2026
+CSC372-01
+Styles for Paracas website
+*/
+
+body{
+    background-color: white;
+    background-image: url("images/Huacachina.JPG");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    color:#404040;
+    font-family: Georgia, Garamond, serif;
+    font-size: 11px;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #a4a400;
+}
+
+h2 {
+    text-align: left;
+    font-size: 18pt;
+    font-weight: normal;
+    text-decoration: underline;
+    color: #a4a400;
+    margin-top: 20px;
+}
+
+a {
+    color:#a0a040;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.visitor-tips {
+    list-style: none;
+    margin-left: 40px;
+}
+
+.visitor-tips li {
+    background-image: url("images/bullet.png");
+    background-repeat: no-repeat;
+    background-size: 14px auto;
+    background-position: 0 4px;
+    margin-bottom: 8px;
+    margin-left: 40px;
+    padding-left: 24px;
+    
+}
+
+blockquote {
+    background-color: #ffffa8;
+    font-style: italic;
+    margin-left: 40px;
+    padding: 15px;
+    border-left: 4px solid #a4a400;
+}
+
+figure {
+    margin: 20px 0;
+    text-align: center;
+}
+
+figcaption {
+     font-size: 10pt;
+    font-style: italic;
+    color: #404040;
+    margin-top: 5px;
+}
+
+ol li{
+   
+    cursor: help;
+    
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 9pt;
+    color: #404040;
+}
+
